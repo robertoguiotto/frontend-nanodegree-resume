@@ -8,7 +8,7 @@
   overflow: auto;
 }
 
-.education-entry, .work-entry, .project-entry {
+.education-entry, .work-entry, .project-entry, .onlinecourses-entry{
   padding-left: 5%;
   padding-right: 5%;
 }
@@ -88,7 +88,7 @@ a {
 
 #skillsH3 {
   color: #F5AE23;
-  display: none;
+  display: none; 
 }
 
 .orange {
